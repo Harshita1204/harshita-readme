@@ -6,37 +6,24 @@ I am a Master of Computer Applications (MCA) student passionate about technology
 I enjoy working on software development, exploring DevOps, and building efficient solutions.
 
 🛠️ My Skills
-
 Programming Languages:
-
 C++
-
 Python
 
-Core Subjects:
-
+#Core Subjects:
 DBMS
-
 Operating Systems
-
 Computer Networking
 
-DevOps & Tools:
-
+#DevOps & Tools:
 Linux
-
 Git & GitHub
-
 AWS
 
-🚀 My Interests
-
+#🚀 My Interests
 DevOps & Cloud Computing
-
 Software Development
-
 Open Source Contributions
-
 
 ⭐ Fun Fact
 
